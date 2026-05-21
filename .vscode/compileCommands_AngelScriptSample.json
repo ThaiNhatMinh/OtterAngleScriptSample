@@ -1,0 +1,1130 @@
+[
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\OtterAngleScriptTest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\OtterAngleScriptTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FHitResult.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FLatentActionInfo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FMath.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FQuat.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FRotator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FString.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FTimerHandle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FTransform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_FVector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_KismetEnums.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_Logging.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_UClassTypesAndKismetSystemLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScriptTest\\Private\\Test_UObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScriptTest.60.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\OtterAngleScript.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_EAxisType.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_EForceInit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_EObjectTypeQuery.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_ETraceTypeQuery.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FActorInstanceHandle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FHitResult.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FLatentActionInfo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FMath.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FName.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FPlane.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FQuat.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FRotator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FString.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FText.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FTimerHandle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FTransform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FVector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_FVector2D.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_Logging.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_TWeakObjectPtr.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_UClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_UKismetSystemLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\Binding\\Bind_UObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Private\\OtterAngleScript.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\OtterAngleScript\\Public\\OtterAngleScript.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\OtterAngleScript.59.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\AngleScriptSDK.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\asm\\angelscriptd.lib",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\asm\\angelscriptd.pdb",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\include\\angelscript.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_array.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_atomic.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_atomic.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_builder.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_builder.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_bytecode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_bytecode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm64.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm64_gcc.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm64_msvc.asm",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm64_xcode.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm_gcc.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm_msvc.asm",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm_vita.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_arm_xcode.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_e2k.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_e2k.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_mips.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_ppc.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_ppc_64.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_riscv64.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_riscv64_gcc.S",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_sh4.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_x64_gcc.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_x64_mingw.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_x64_msvc.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_x64_msvc_asm.asm",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_x86.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_callfunc_xenon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_compiler.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_compiler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_config.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_configgroup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_configgroup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_context.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_context.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_criticalsection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_datatype.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_datatype.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_debug.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_gc.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_gc.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_generic.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_generic.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_globalproperty.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_map.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_memory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_memory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_module.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_module.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_namespace.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_objecttype.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_objecttype.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_outputbuffer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_outputbuffer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_parser.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_parser.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_property.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_restore.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_restore.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptcode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptcode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptengine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptengine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptfunction.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptfunction.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptnode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptnode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptobject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_scriptobject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_string.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_string.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_string_util.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_string_util.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_symboltable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_texts.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_thread.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_thread.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_tokendef.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_tokenizer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_tokenizer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_typeinfo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_typeinfo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_variablescope.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Plugins\\OtterAngleScript\\Source\\ThirdParty\\sdk\\angelscript\\source\\as_variablescope.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\angelscript.830.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Source\\AngelScriptSample\\AngelScriptSample.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\AngelScriptSample.1.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Source\\AngelScriptSample\\AngelScriptSample.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\AngelScriptSample.1.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Source\\AngelScriptSample\\AngelScriptSample.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\AngelScriptSample.1.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Source\\AngelScriptSample\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\AngelScriptSample.1.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Projects\\AngelScriptSample\\Source\\AngelScriptSample\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Projects\\AngelScriptSample\\.vscode\\compileCommands_AngelScriptSample\\AngelScriptSample.1.rsp"
+		],
+		"directory": "C:\\Projects\\UnrealEngine\\Engine\\Source"
+	}
+]

@@ -1,0 +1,635 @@
+{
+	"folders": [
+		{
+			"name": "AngelScriptSample",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Projects\\UnrealEngine"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"npm.autoDetect": "off",
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64;${env:PATH}",
+			"DOTNET_ROOT": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64",
+			"DOTNET_HOST_PATH": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64\\dotnet.exe",
+			"DOTNET_MULTILEVEL_LOOKUP": "0",
+			"DOTNET_ROLL_FORWARD": "LatestMajor"
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "AngelScriptSample Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Debug",
+					"${workspaceFolder}/AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Debug",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSample Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Debug",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"DebugGame",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"DebugGame",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSample Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"DebugGame",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSample Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Test Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Test",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Test Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Test",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSample Win64 Test Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Test Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Test",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Shipping Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Shipping",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Shipping Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Shipping",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSample Win64 Shipping Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSample Win64 Shipping Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSample",
+					"Win64",
+					"Shipping",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Debug Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Debug",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Debug Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Debug",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSampleEditor Win64 Debug Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Debug Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Debug",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "Editor Win64 DebugGame Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"DebugGame",
+					"${workspaceFolder}/AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 DebugGame Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"DebugGame",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSampleEditor Win64 DebugGame Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 DebugGame Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"DebugGame",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Development Build",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Development Rebuild",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Build.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"dependsOn": [
+					"AngelScriptSampleEditor Win64 Development Clean"
+				],
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"label": "AngelScriptSampleEditor Win64 Development Clean",
+				"group": "build",
+				"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+				"args": [
+					"AngelScriptSampleEditor",
+					"Win64",
+					"Development",
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-waitmutex"
+				],
+				"problemMatcher": "$msCompile",
+				"type": "shell",
+				"options": {
+					"cwd": "C:\\Projects\\UnrealEngine"
+				}
+			}
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch AngelScriptSample (Debug)",
+				"request": "launch",
+				"program": "C:\\Projects\\AngelScriptSample\\Binaries\\Win64\\AngelScriptSample-Win64-Debug.exe",
+				"preLaunchTask": "AngelScriptSample Win64 Debug Build",
+				"args": [
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSample (DebugGame)",
+				"request": "launch",
+				"program": "C:\\Projects\\AngelScriptSample\\Binaries\\Win64\\AngelScriptSample-Win64-DebugGame.exe",
+				"preLaunchTask": "AngelScriptSample Win64 DebugGame Build",
+				"args": [
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSample (Development)",
+				"request": "launch",
+				"program": "C:\\Projects\\AngelScriptSample\\Binaries\\Win64\\AngelScriptSample.exe",
+				"preLaunchTask": "AngelScriptSample Win64 Development Build",
+				"args": [
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSample (Test)",
+				"request": "launch",
+				"program": "C:\\Projects\\AngelScriptSample\\Binaries\\Win64\\AngelScriptSample-Win64-Test.exe",
+				"preLaunchTask": "AngelScriptSample Win64 Test Build",
+				"args": [
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSample (Shipping)",
+				"request": "launch",
+				"program": "C:\\Projects\\AngelScriptSample\\Binaries\\Win64\\AngelScriptSample-Win64-Shipping.exe",
+				"preLaunchTask": "AngelScriptSample Win64 Shipping Build",
+				"args": [
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSampleEditor (Debug)",
+				"request": "launch",
+				"program": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"preLaunchTask": "AngelScriptSampleEditor Win64 Debug Build",
+				"args": [
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject"
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSampleEditor (DebugGame)",
+				"request": "launch",
+				"program": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"preLaunchTask": "AngelScriptSampleEditor Win64 DebugGame Build",
+				"args": [
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject"
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Launch AngelScriptSampleEditor (Development)",
+				"request": "launch",
+				"program": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"preLaunchTask": "AngelScriptSampleEditor Win64 Development Build",
+				"args": [
+					"C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject"
+				],
+				"cwd": "C:\\Projects\\UnrealEngine",
+				"stopAtEntry": false,
+				"console": "integratedTerminal",
+				"type": "cppvsdbg",
+				"visualizerFile": "C:\\Projects\\UnrealEngine\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"sourceFileMap": {
+					"Z:\\UEVFS\\AngelScriptSample": "C:\\Projects\\AngelScriptSample",
+					"Z:\\UEVFS\\Root": "C:\\Projects\\UnrealEngine"
+				}
+			},
+			{
+				"name": "Generate Project Files",
+				"type": "coreclr",
+				"request": "launch",
+				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
+				"program": "C:\\Projects\\UnrealEngine\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"args": [
+					"-projectfiles",
+					"-vscode",
+					"-project=C:\\Projects\\AngelScriptSample\\AngelScriptSample.uproject",
+					"-game",
+					"-engine",
+					"-dotnet"
+				],
+				"env": {
+					"PATH": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64;${env:PATH}",
+					"DOTNET_ROOT": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64",
+					"DOTNET_HOST_PATH": "C:\\Projects\\UnrealEngine\\Engine\\Binaries\\ThirdParty\\DotNet\\8.0.300\\win-x64\\dotnet.exe",
+					"DOTNET_MULTILEVEL_LOOKUP": "0",
+					"DOTNET_ROLL_FORWARD": "LatestMajor"
+				},
+				"console": "integratedTerminal",
+				"stopAtEntry": false,
+				"cwd": "C:\\Projects\\UnrealEngine"
+			}
+		]
+	}
+}

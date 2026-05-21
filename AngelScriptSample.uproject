@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FEF8E9DA-4323-5D8B-9971-ABB211FDA27D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AngelScriptSample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		}
+	]
+}

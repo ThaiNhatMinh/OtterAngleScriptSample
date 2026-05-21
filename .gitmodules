@@ -1,0 +1,3 @@
+[submodule "Plugins/OtterAngleScript"]
+	path = Plugins/OtterAngleScript
+	url = https://github.com/ThaiNhatMinh/OtterAngleScript.git
