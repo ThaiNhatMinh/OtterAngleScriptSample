@@ -9,4 +9,8 @@ UCLASS()
 class UPlaceholder : public UObject
 {
     GENERATED_BODY()
+
+private:
+    UPROPERTY(EditDefaultsOnly)
+    FString ASD;
 };
