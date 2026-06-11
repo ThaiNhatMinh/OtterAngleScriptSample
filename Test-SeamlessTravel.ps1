@@ -57,18 +57,18 @@ function Cleanup {
     Write-Host "=== Cleanup complete ===" -ForegroundColor Green
 }
 
-function Launch-Server {
-    param([string]$Title, [string]$Args)
+function LaunchServer {
+    param([string]$Title, [string]$LaunchArgs)
     $psi = New-Object System.Diagnostics.ProcessStartInfo
     $psi.FileName = $CmdExe
-    $psi.Arguments = $Args
+    $psi.Arguments = $LaunchArgs
     $psi.UseShellExecute = $true
     $psi.CreateNoWindow = $false
     $psi.WindowStyle = [System.Diagnostics.ProcessWindowStyle]::Normal
     $psi.LoadUserProfile = $false
     $proc = [System.Diagnostics.Process]::Start($psi)
     $script:ServerProcesses += $proc
-    Write-Host "  Launched [$Title] PID=$($proc.Id)" -ForegroundColor Cyan
+    Write-Host "  Launched [$Title] PID=$($proc.Id) $LaunchArgs $CmdExe" -ForegroundColor Cyan
     return $proc
 }
 
@@ -107,7 +107,9 @@ try {
         "-OtterMeshNumServers=2",
         "-OtterMeshPeers=""127.0.0.1:$GS1_Port"""
     )
-    $gs0 = Launch-Server -Title "GS_0" -Args ($gs0Args -join " ")
+    $TEMP = ($gs0Args -join " ")
+    $gs0 = LaunchServer -Title "GS_0" -LaunchArgs ($gs0Args -join " ")
+
     Start-Sleep -Seconds 5
 
     # ─── Step 2: Launch Game Server 1 ───
@@ -120,7 +122,7 @@ try {
         "-OtterMeshNumServers=2",
         "-OtterMeshPeers=""127.0.0.1:$GS0_Port"""
     )
-    $gs1 = Launch-Server -Title "GS_1" -Args ($gs1Args -join " ")
+    $gs1 = LaunchServer -Title "GS_1" -LaunchArgs ($gs1Args -join " ")
     Start-Sleep -Seconds 5
 
     # ─── Step 3: Launch Proxy Server ───
@@ -135,7 +137,7 @@ try {
         "-OtterGridX=8",
         "-OtterGridY=8"
     )
-    $proxy = Launch-Server -Title "Proxy" -Args ($proxyArgs -join " ")
+    $proxy = LaunchServer -Title "Proxy" -LaunchArgs ($proxyArgs -join " ")
     Start-Sleep -Seconds 5
 
     # ─── Step 4: Launch Client (if not ClientOnly, skip this and let user connect) ───
@@ -144,7 +146,7 @@ try {
         $clientArgs = @(
             """$ProjectFile""", "127.0.0.1:$ProxyPort", "-game -log"
         )
-        $client = Launch-Server -Title "Client" -Args ($clientArgs -join " ")
+        $client = LaunchServer -Title "Client" -LaunchArgs ($clientArgs -join " ")
         Write-Host "`nClient connecting to proxy at 127.0.0.1:$ProxyPort" -ForegroundColor Cyan
     }
     else {
